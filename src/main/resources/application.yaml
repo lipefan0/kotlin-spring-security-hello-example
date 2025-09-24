@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: kotlin_spring_security_hello_example
+
+server:
+  port: 8081
+
+app:
+  secret: ChaveSecretaSuperSeguraParaAssinarTokensJwtComPeloMenos256BitsDeTamanho
